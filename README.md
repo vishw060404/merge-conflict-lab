@@ -1,3 +1,4 @@
+Vishwa — I’ll **walk through every scenario slowly, step by step**, explaining **what each person does**, **why the conflict happens**, **what Git is thinking internally**, and **exactly how to resolve it**.
 Dravid — I’ll **walk through every scenario slowly, step by step**, explaining **what each person does**, **why the conflict happens**, **what Git is thinking internally**, and **exactly how to resolve it**.
 
 Think of this as a **merge-conflict lab manual**, not just commands.
@@ -147,11 +148,8 @@ Git stops.
 ## STEP 5 — Conflict Markers Explained
 
 ```txt
-<<<<<<< HEAD
 Welcome to Git Merge Conflict Lab - Created by Person One
-=======
 Welcome to Git Merge Conflict Lab - Updated by Person Two
->>>>>>> feature/p2-update
 ```
 
 ### Meaning:
