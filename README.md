@@ -1,4 +1,4 @@
-Vishwa — I’ll **walk through every scenario slowly, step by step**, explaining **what each person does**, **why the conflict happens**, **what Git is thinking internally**, and **exactly how to resolve it**.
+Perfect — I’ll **walk through every scenario slowly, step by step**, explaining **what each person does**, **why the conflict happens**, **what Git is thinking internally**, and **exactly how to resolve it**.
 Dravid — I’ll **walk through every scenario slowly, step by step**, explaining **what each person does**, **why the conflict happens**, **what Git is thinking internally**, and **exactly how to resolve it**.
 
 Think of this as a **merge-conflict lab manual**, not just commands.
